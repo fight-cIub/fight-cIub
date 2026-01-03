@@ -9,6 +9,7 @@
   <a href="https://tamanotchi.world/28774c"><img src="https://tamanotchi.world/i2/28774" alt="It's tamaNOTchi! Click to feed!"></a>
   <a href="https://tamanotchi.world/28775c"><img src="https://tamanotchi.world/i2/28775" alt="It's tamaNOTchi! Click to feed!"></a>
   <a href="https://tamanotchi.world/28793c"><img src="https://tamanotchi.world/i2/28793" alt="It's tamaNOTchi! Click to feed!"></a>
+  <a href="https://tamanotchi.world/28837c"><img src="https://tamanotchi.world/i2/28837" alt="It's tamaNOTchi! Click to feed!"></a>
 </p> 
 
 <p align="center">
